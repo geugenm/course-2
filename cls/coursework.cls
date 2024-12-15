@@ -1,4 +1,3 @@
-% coursework.cls
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{coursework}[2023/10/26 Report Class]
 
